@@ -1,0 +1,291 @@
+﻿[
+	{
+		"year": "105 год", 
+		"name": "Создана бумага", 
+		"description": null, 
+		"type": "circle",
+
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "III век", 
+		"name": "Изобретена подкова", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "IV век", 
+		"name": "Изобретено стремя", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "VI век", 
+		"name": "Создан фарфор", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "VII век", 
+		"name": "Создан плуг", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "VII век", 
+		"name": "Изготовлена ветряная мельница", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{ 
+		"year": "873 год", 
+		"name": "Построена первая больница", 
+		"description": "Разблокировано строительство больницы", 
+		"type": "square",
+		
+		"resources": [], 
+		"buildings": ["Больница"] 
+	},{
+		"year": "IX век", 
+		"name": "Изобретён чёрный порох", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "X век", 
+		"name": "Создано прядильное колесо", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1040 год", 
+		"name": "Изобретены подвижные литёры", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1128 год", 
+		"name": "Отлита первая пушка", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1280 год", 
+		"name": "Изготовлены очки", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1379 год", 
+		"name": "Изобретена аркебузира", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1450 год", 
+		"name": "Впервые применён ручной типографический станок", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "Начало XVI века", 
+		"name": "Появился мушкет", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1525 год", 
+		"name": "Изобретён зернистый порох", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1590 год", 
+		"name": "Создан первый микроскоп", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1608 год", 
+		"name": "Изобретён телескоп", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1645 год", 
+		"name": "Создана счётная машина", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1714 год", 
+		"name": "Изобретён термометр Фаренгейта", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1752 год", 
+		"name": "Сделан первый громоотвод", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1783 год", 
+		"name": "Создан воздушный шар", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1800 год", 
+		"name": "Изобретена электрическая батарея", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1839 год", 
+		"name": "Сделана первая фотография", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{ 
+		"year": "1848 год", 
+		"name": "Начало добычи нефти", 
+		"description": "Разблокирован ресурс \"Нефть\", разблокировано строительство нефтяной сважины", 
+		"type": "square",
+		
+		"resources": ["oil"], 
+		"buildings": ["Нефтяная скважина"]
+	},{
+		"year": "1852 год", 
+		"name": "Построен дережабль", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{ 
+		"year": "1896 год", 
+		"name": "Открыт распад урана. Начало добычи урана", 
+		"description": "Разблокирован ресурс \"Уран\", разблокировано строительство урановой шахты", 
+		"type": "square",
+		
+		"resources": ["uranium"], 
+		"buildings": ["Урановая шахта"]
+	},{ 
+		"year": "1916 год", 
+		"name": "Появился первый танк", 
+		"description": "Разблокирован ресурс \"Танки\", разблокировано строительство военного завода", 
+		"type": "square",
+
+		"resources": ["tank"], 
+		"buildings": ["Военный завод"]
+	},{ 
+		"year": "1954 год", 
+		"name": "Построена первая АЭС", 
+		"description": null, 
+		"type": "circle",
+
+		"resources": [], 
+		"buildings": []
+	},{ 
+		"year": "1912 год", 
+		"name": "Построен первый бункер", 
+		"description": "Разблокировано строительство бункера", 
+		"type": "square",
+
+		"resources": [], 
+		"buildings": ["Бункер"]
+	},{
+		"year": "1938 год", 
+		"name": "Собран первый компьютер", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1956 год", 
+		"name": "Построен атомный ледокол", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "1967 год", 
+		"name": "Создан банкомат", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []	
+	},{
+		"year": "1983 год", 
+		"name": "Создан прототип интернета", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "2000 год", 
+		"name": "Собран бытовой робот", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	},{
+		"year": "2013 год", 
+		"name": "Изобретена лазерная космическая связь", 
+		"description": null, 
+		"type": "circle",
+		
+		"resources": [], 
+		"buildings": []
+	}
+]
