@@ -1,0 +1,26 @@
+[
+    {
+        "id": "spain",
+        "name": "Испания",
+        "center": 22,
+        "flag": "spain.jpg",
+        "color": "#F9B120",
+        "religion": "Католицизм",
+        "ideology": "Консерватизм",
+        "ruler": "Филипп VI",
+        "start_money": 0,
+        "population": 46714997
+    },
+    {
+        "id": "portugalia",
+        "name": "Португалия",
+        "center": 62,
+        "flag": "portugalia.jpg",
+        "color": "#5FB130",
+        "religion": "Христианство",
+        "ideology": "Либерализм",
+        "ruler": "Марселу Ребелу ди Соза",
+        "start_money": 0,
+        "population": 10276617
+    }
+]
